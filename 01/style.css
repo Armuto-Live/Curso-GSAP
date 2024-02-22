@@ -7,6 +7,7 @@ body{
     color: #fff;
     display: flex;
     flex-direction: column;
+    overflow-x: hidden;
 }
 #body1{
     width: 100%;

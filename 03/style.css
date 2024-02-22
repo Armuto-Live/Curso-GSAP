@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gilroy";
+}
+
+#page1 {
+  height: 100vh;
+  background-color: rgb(233, 154, 154);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page2 {
+  height: 100vh;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page3 {
+  height: 100vh;
+  background-color: rebeccapurple;
+  display: flex;
+  align-items: center;
+}
+
+#box {
+  height: 300px;
+  width: 300px;
+  background-color: lightcoral;
+}
