@@ -1,0 +1,38 @@
+@font-face {
+    font-family: head;
+    src: url(./Heading-Now-Variable.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gilroy';
+}
+body{
+    background-color: #030303;
+    color:#fff;
+}
+
+#main{
+
+}
+
+#page1,#page2,#page3{
+    height: 100vh;
+}
+
+#page1 h1{
+    font-size: 40vw;
+    text-transform: uppercase;
+    font-family: head;
+    white-space: nowrap;
+    font-stretch: 260%;
+    font-weight: 999;
+}
+#page2{
+    background-color: rgb(65, 50, 50);
+}
+#page3{
+    background-color: rgb(97, 119, 119);
+}
